@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 ###### 🙋🏻‍♂️ 20y
-###### 👨🏻‍💻 Estudante em Tecnólogo de Análise e Desenvolvimento de Sistemas - Sptech School
+###### 👨🏻‍💻 Cursando Faculdade em Tecnólogo de Análise e Desenvolvimento de Sistemas - Sptech School
 ###### 👨🏻‍🎓 Formado em Técnico de Desenvolvimento de sistemas - Senai Informática Sp
 ###### 👨🏻‍🏭 Formado em Técnico de Mecatrônica - Senai Sp
 
