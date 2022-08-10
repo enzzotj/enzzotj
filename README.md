@@ -1,9 +1,9 @@
 ## Olá, me chamo Enzzo Jacó! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-##### 🔭 Estudante em Tecnólogo de Análise e Desenvolvimento de Sistemas - Sptech School
-##### 📜 Formado em Técnico de Desenvolvimento de sistemas - Senai Sp
-####
+###### 🔭 Estudante em Tecnólogo de Análise e Desenvolvimento de Sistemas - Sptech School
+###### 📜 Formado em Técnico de Desenvolvimento de sistemas - Senai Sp
+######
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Enzzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
