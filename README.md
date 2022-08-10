@@ -1,9 +1,9 @@
 ## Olá, me chamo Enzzo Jacó! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-###### 🔭 Estudante em Tecnólogo de Análise e Desenvolvimento de Sistemas - Sptech School
-###### 📜 Formado em Técnico de Desenvolvimento de sistemas - Senai Sp
-######
+###### 📚 Estudante em Tecnólogo de Análise e Desenvolvimento de Sistemas - Sptech School
+###### 👨🏻‍🎓 Formado em Técnico de Desenvolvimento de sistemas - Senai Informática Sp
+###### 👨🏻‍🏭 Formado em Técnico de Mecatrônica - Senai Sp
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Enzzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +18,7 @@
   
   ##
 
-  <a href = "mailto:enzzojaco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:enzzojaco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzzo-teixeira-jacó-b02a0a204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
