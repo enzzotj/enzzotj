@@ -6,9 +6,7 @@
 ###### 👨🏻‍🎓 Formado em Técnico de Desenvolvimento de sistemas - Senai Informática Sp
 ###### 👨🏻‍🏭 Formado em Técnico de Mecatrônica - Senai Sp
 
-<div align="center" >
 ![1_dxbvVHJkUh5HagZ7HI0nFw](https://user-images.githubusercontent.com/82120129/183794253-159e858b-bde6-4984-837a-c252a6460594.gif)
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Enzzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
