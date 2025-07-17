@@ -9,8 +9,8 @@
 ![1_dxbvVHJkUh5HagZ7HI0nFw](https://user-images.githubusercontent.com/82120129/183794253-159e858b-bde6-4984-837a-c252a6460594.gif)
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavodesantana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodesantana&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzzotj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzzotj&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align=center>
 <img alt="G-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
