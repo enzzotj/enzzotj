@@ -1,8 +1,8 @@
 ## Olá, me chamo Enzzo Jacó! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-###### 🙋🏻‍♂️ 20y
-###### 👨🏻‍💻 Cursando Faculdade em Tecnólogo de Análise e Desenvolvimento de Sistemas - Sptech School
+###### 🙋🏻‍♂️ 23y
+###### 👨🏻‍💻 Formado em Tecnólogo de Análise e Desenvolvimento de Sistemas - Sptech School
 ###### 👨🏻‍🎓 Formado em Técnico de Desenvolvimento de sistemas - Senai Informática Sp
 ###### 👨🏻‍🏭 Formado em Técnico de Mecatrônica - Senai Sp
 
